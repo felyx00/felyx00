@@ -16,16 +16,16 @@
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
 ### - Currently Grinding XP In :
-- ✨ Software Engineering (Main Quest — pursuing my degree)
-- ✨ Data Structures & Algorithms 
-- ✨ Debugging bug's in the real world 
+-  Software Engineering (Main Quest — pursuing my degree)
+-  Data Structures & Algorithms 
+-  Debugging bug's in the real world 
 
 ### - Hobbies : 
-- ✨ Watching Anime
-- ✨ Binge-watching Netflix Series
-- ✨ Swimming
-- ✨ Football
-- ✨ Gym
+-  Watching Anime
+-  Binge-watching Netflix Series
+-  Swimming
+-  Football
+-  Gym
 
 </br>
 </br>
